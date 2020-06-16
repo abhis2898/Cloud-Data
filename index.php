@@ -4,7 +4,7 @@
 </head>
 
 <pre>
-<img src="${aws_cloudfront_distribution.s3_cloudfront}/image.jpg" alt="image">
+<img src="dataFolder/image.jpg" alt="image">
 
 <?php
   print `ifconfig`;
