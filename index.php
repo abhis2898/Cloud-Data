@@ -4,6 +4,8 @@
 </head>
 
 <pre>
+<img src="./image.jpg" alt="image">
+
 <?php
   print `ifconfig`;
 ?>
